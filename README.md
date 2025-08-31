@@ -33,7 +33,7 @@
 | gene-disease  | http://www.disgenet.org/                 | https://github.com/kexinhuang12345/SkipGNN|
 | miRNA-disease | http://www.cuilab.cn/hmdd                | https://github.com/a1622108/MDA-CF        |
 
-## 🚀 Get Started
+## 🚀🚀🚀Get Started
 
 This guide will help you quickly configure and run the UniBIP project.
 
@@ -65,8 +65,8 @@ After activating the environment, run the following command to install the proje
 ```bash
 pip install .
 ```
------
-##  ⚙️ Example 
+
+##  🛠️🛠️🛠️Example 
 
 
 The training module is located at `example/main.py`. You can start the training process by running `main.py`.
@@ -74,9 +74,16 @@ The training module is located at `example/main.py`. You can start the training 
 ```python
 python main.py
 ```
+-----
+##  🌟🌟🌟 Quick Start Guide
+The UniBIP model automatically adapts to the type of graph data you input. For a **homogeneous network**, you can simply set the `mode` parameter to `'I'`, while for a **heterogeneous network**, you'll set it to `'H'`.
 
+Furthermore, you can specify the directionality of the edges using the `undirected` parameter: `undirected=True` indicates **undirected edges** (or bidirectional edges), whereas `undirected=False` indicates **directed edges** (or unidirectional edges).
 
-## 🏆 Showcase
+Notably, the model also features **multi-task** adaptability, **automatically** determining whether to perform **binary qualitative** or **multi-class qualitative** prediction based on the data, without requiring manual configuration. This design greatly simplifies the user experience, allowing you to focus on the task itself rather than on complex model settings.
+
+-----
+## 🏆🏆🏆 Showcase
 <p align="center">
    <img src='figures/visualizing surface.jpg' width="100%">
 <br><br>
