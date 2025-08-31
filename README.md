@@ -4,8 +4,10 @@
 </p>
 
 [📘Documentation](https://xxx/) |
-[🛠️Installation](https://github.com/qiqi5757/UniBIP?tab=readme-ov-file#-get-started) |
+[🚀Installation](https://github.com/qiqi5757/UniBIP?tab=readme-ov-file#-get-started) |
 [👀Visualization](https://github.com/qiqi5757/UniBIP?tab=readme-ov-file#-showcase) |
+[🛠️Example](https://github.com/qiqi5757/UniBIP#%EF%B8%8F%EF%B8%8F%EF%B8%8Fexample) |
+[🌟Guide](https://github.com/qiqi5757/UniBIP#-quick-start-guide) |
 
  <p align="center" width="100%">
   <img src='figures/The framework of UniBIP.png' width="100%">
@@ -69,7 +71,7 @@ pip install .
 ##  🛠️🛠️🛠️Example 
 
 
-The training module is located at `example/main.py`. You can start the training process by running `main.py`.
+The training module is located at `example/main.py`. You can start the training process by running `main.py`. The training module is located at `example/main.py`. You can start the training process by running `main.py`. The dataset is located in the`example/dataset` directory. Given the substantial size of the dataset, a full upload is not feasible. The complete dataset and others can be found at the following URL: [https://figshare.com/s/4f1adea54bde58c8dbc6](https://figshare.com/s/4f1adea54bde58c8dbc6).
 
 ```python
 python main.py
