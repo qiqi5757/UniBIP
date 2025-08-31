@@ -3,13 +3,15 @@
   <img src='figures/title.png' width="95%">
 </p>
 
+[📘Documentation](https://xxx/) |
+[🛠️Installation](https://github.com/qiqi5757/UniBIP?tab=readme-ov-file#-get-started) |
+[👀Visualization](https://github.com/qiqi5757/UniBIP?tab=readme-ov-file#-showcase) |
+
  <p align="center" width="100%">
   <img src='figures/The framework of UniBIP.png' width="100%">
 </p>
 
-[📘Documentation](https://xxx/) |
-[🛠️Installation](https://github.com/qiqi5757/UniBIP?tab=readme-ov-file#-get-started) |
-[👀Visualization](https://github.com/qiqi5757/UniBIP?tab=readme-ov-file#-showcase) |
+
 ## 📑 Datasets
 
 
