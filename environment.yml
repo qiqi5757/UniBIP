@@ -1,0 +1,19 @@
+name: unibip_env
+channels:
+  - conda-forge
+  - pytorch
+  - pyg
+dependencies:
+  - python=3.9
+  - pytorch
+  - scikit-learn
+  - numpy
+  - pandas
+  - scipy
+  - networkx
+  - joblib
+  - tqdm
+  - setproctitle
+  - pyarrow
+  - torch-scatter
+  - torch-geometric
